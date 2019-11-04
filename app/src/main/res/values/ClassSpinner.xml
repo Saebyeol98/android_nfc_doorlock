@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="class_array">
+        <item>C116</item>
+        <item>C117</item>
+        <item>C320</item>
+        <item>C324</item>
+        <item>C326</item>
+        <item>L114</item>
+    </string-array>
+</resources>

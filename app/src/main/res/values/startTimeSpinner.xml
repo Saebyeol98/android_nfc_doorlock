@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="start_time_array">
+        <item>9시 30분</item>
+        <item>10시 30분</item>
+        <item>11시 30분</item>
+        <item>12시 30분</item>
+        <item>13시 30분</item>
+        <item>14시 30분</item>
+        <item>15시 30분</item>
+        <item>16시 30분</item>
+        <item>17시 30분</item>
+    </string-array>
+</resources>
