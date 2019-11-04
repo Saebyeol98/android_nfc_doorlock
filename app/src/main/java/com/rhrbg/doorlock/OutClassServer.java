@@ -15,7 +15,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 /**
- * Created by rhrbg on 2016-05-28.
+ * Created by seabu on 2016-05-28.
  */
 public class OutClassServer extends Thread {
 

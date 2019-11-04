@@ -20,7 +20,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 /**
- * Created by rhrbg on 2016-05-30.
+ * Created by seabu on 2016-05-30.
  */
 public class LogServer extends Thread {
 
